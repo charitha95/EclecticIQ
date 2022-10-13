@@ -1,0 +1,30 @@
+.app {
+  font-family: sans-serif;
+  padding: 1rem;
+}
+
+.task-manager {
+  display: flex;
+  max-width: 750px;
+}
+
+.form > div {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.form legend, .task-list legend {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.form label {
+  display: inline-flex;
+  min-width: 100px;
+}
+
+.task-list {
+  margin-left: 150px;
+}
