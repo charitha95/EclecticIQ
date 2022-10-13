@@ -1,46 +1,14 @@
-# Getting Started with Create React App
+# EclecticIQ UI Home Assignment - form that auto-saves drafts
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hey!
 
-## Available Scripts
+Thank you for taking part in our recruitment process. We would like you to solve this home assignment. It's not time limited but it shouldn't take more than one hour. It will be followed up by a call with one of our engineers. During it, we will discuss your solution and ask you to add one more enhancement.
 
-In the project directory, you can run:
+Once you are ready, please fork the sandbox.
 
-### `npm start`
+1. We want a form for creating tasks in our product. Data will be saved and retrieved from a local storage.
+2. We want to auto-save drafts for every input the user does so that users don’t loose their work-in-progress if close their browser or leave the page.
+3. When the user come back to the form, we want to load their draft.
+4. When the user submit the form, their draft should be deleted and the form should be emptied.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Please remember, there is no one and best solution. We want to see how you write and structure your code.
